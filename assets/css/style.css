@@ -1,0 +1,29 @@
+.card-destinos {
+    cursor: pointer;
+    transition:
+        transform 0.3s,
+        box-shadow 0.3s;
+}
+
+.card-destinos:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.card-destinos .card-img-top {
+    height: 200px;
+}
+
+#vista-detalle {
+    background-color: #3d9048;
+    color: #ffffff;
+}
+
+#detalle-container .img-fluid {
+    max-height: 400px;
+}
+
+#detalle-container .list-group-item {
+    background-color: #16213e;
+    color: #e0e0e0;
+}
