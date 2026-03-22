@@ -9,3 +9,6 @@ Herramientas usadas
 -HTML y CSS: Para la estructura y los colores.
 -Bootstrap: Para que la página se vea bien en celulares y computadoras.
 -JavaScript: Para que la información cambie de forma dinámica cuando haces clic.
+
+enlace repocitorio
+https://github.com/gabrielvillarroeltorrejon-star/Portafolio-M2-Gabriel-Villarroel
